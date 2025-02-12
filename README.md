@@ -1,3 +1,5 @@
+# 🎯 Target 2017 Performance Dashboard
+
 ## 📌 Project Background
 Target Corporation is one of the largest retail chains in the United States, operating in the **retail and e-commerce industry** since **1962**. The company follows a **brick-and-mortar & online business model**, offering a wide range of products, from home essentials to electronics, apparel, and groceries.
 
