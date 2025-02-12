@@ -29,10 +29,10 @@ Target’s primary database consists of the following **five tables**:
 
 ## 📌 **SQL Queries & Data Cleaning**
 ### 🔹 **Data Cleaning & Transformation**
-- The SQL queries used to clean and prepare the data can be found **[here](link-to-your-t_data_cleaning.sql)**.
+- The SQL queries used to clean and prepare the data can be found **[here]([link-to-your-t_data_cleaning.sql](https://github.com/jalenray15/Target-2017-Performance/blob/main/t_data_cleaning.sql))**.
 
 ### 🔹 **Sales Performance SQL Queries**
-- SQL queries used to analyze business metrics and answer key sales questions can be found **[here](link-to-your-target_sales.sql)**.
+- SQL queries used to analyze business metrics and answer key sales questions can be found **[here]([link-to-your-target_sales.sql](https://github.com/jalenray15/Target-2017-Performance/blob/main/t_data_analysis.sql))**.
 
 
 ---
