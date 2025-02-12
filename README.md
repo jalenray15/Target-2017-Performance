@@ -12,6 +12,18 @@ The analysis focuses on four key areas:
 
 ---
 
+## 🔧 **Tools & Technologies Used**
+| Category       | Tools & Technologies |
+|---------------|----------------------|
+| **Database & SQL**  | MySQL |
+| **Data Cleaning & Transformation** | SQL (JOINs, CTEs, Aggregations) |
+| **Visualization & BI Tools** | Tableau |
+| **File Handling** | CSV, Excel |
+| **Version Control** | GitHub |
+
+
+---
+
 ## 📊 **Data Structure & Initial Checks**
 Target’s primary database consists of the following **five tables**:
 
@@ -106,15 +118,7 @@ Based on these insights, here are **data-driven recommendations** for Target’s
 
 ---
 
-## 🔧 **Tools & Technologies Used**
-| Category       | Tools & Technologies |
-|---------------|----------------------|
-| **Database & SQL**  | MySQL |
-| **Data Cleaning & Transformation** | SQL (JOINs, CTEs, Aggregations) |
-| **Visualization & BI Tools** | Tableau |
-| **File Handling** | CSV, Excel |
-| **Version Control** | Git, GitHub |
----
+
 
 
 ## 🚀 **Next Steps**
