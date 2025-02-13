@@ -55,6 +55,7 @@ Target’s primary database consists of the following **five tables**:
 ## 📊  Tableau Dashboard
 
 <img width="1440" alt="target_performance_dashboard" src="https://github.com/user-attachments/assets/6abe56f1-28a6-499a-84ff-982211ce345b" />
+
 ---
 
 ## **📢 Executive Summary**
