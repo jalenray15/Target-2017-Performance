@@ -18,7 +18,7 @@ The analysis focuses on two key areas:
 4. **Sales KPIs** – Evaluating KPIs like total sales, total orders, and average order value.
 
 **Logistics Performance**
-1. **Delivery Performance Over Time ** – Assessing on-time vs. late deliveries and trends.
+1. **Delivery Performance Over Time** – Assessing on-time vs. late deliveries and trends.
 2. **Shipping Cost vs. Delivery Speed** – Evaluating cost-effectiveness in logistics.
 3. **Delivery Time by State** – Identifying regional inefficiencies in shipment handling.
 4. **High-Risk Locations** – Finding the top states with the most late deliveries to pinpoint areas for improvement.
@@ -50,6 +50,7 @@ Target’s primary database consists of the following **five tables**:
 | `customers`    | Stores customer demographics and locations. |
 | `geolocation`  | Provides geographic data for delivery performance analysis. |
 
+<img width="650" alt="Screen Shot 2025-03-03 at 5 41 48 PM" src="https://github.com/user-attachments/assets/c4e564a3-6b64-4cae-baf9-74769737265d" />
 
 
 ---
@@ -69,12 +70,13 @@ Target’s primary database consists of the following **five tables**:
 
 ## Sales Performance Dashboard
 
-<img width="1438" alt="Sales_dashboard" src="https://github.com/user-attachments/assets/d5ac8493-4bf4-4954-9b37-fc7679df746b" />
+<img width="1437" alt="Screen Shot 2025-03-03 at 5 45 26 PM" src="https://github.com/user-attachments/assets/c55fff98-c0e3-4d6d-87f1-f898acb5afbc" />
+
 
 ### KPIs Tracked:
-- Total Sales: $6,922,900
-- Total Orders: 43,428
-- Average Order Value (AOV): $161
+- Total Sales: $7,144,076
+- Total Orders: 45,101
+- Average Order Value (AOV): $158.40
 
 
 ### Key Insights
@@ -85,12 +87,13 @@ Target’s primary database consists of the following **five tables**:
 
 ## Logistics Performance Dashboard
 
-<img width="1440" alt="Logistics_Dashborad" src="https://github.com/user-attachments/assets/81ac7929-c6c9-49cb-bce6-c67c181c559e" />
+<img width="1439" alt="Screen Shot 2025-03-03 at 5 45 36 PM" src="https://github.com/user-attachments/assets/31e80a1d-aca0-4297-aea9-a6e8b54417cb" />
+
 
 ### KPIs Tracked:
-- Avg. Delivery Time: 13 Days
-- On-Time Delivery Rate: 93%
-- Late Delivery Rate: 7%
+- Avg. Delivery Time: 12 Days
+- On-Time Delivery Rate: 92%
+- Avg. Shipping Cost: $19.99
 
 ### Key Insights
 - Delivery delays increased in November, likely due to high order volume.
@@ -106,14 +109,16 @@ Target’s primary database consists of the following **five tables**:
 - November saw the highest sales due to holiday demand.
 - Sales declined slightly in mid-year but recovered in Q4.
 
- <img width="1422" alt="Monthly Trends" src="https://github.com/user-attachments/assets/83728501-b8c6-41cd-bb5b-d4ab04ac5695" />
+<img width="900" alt="Screen Shot 2025-03-03 at 5 47 16 PM" src="https://github.com/user-attachments/assets/fb1af909-3907-4b9f-a059-4af50e586ac7" />
+
 
 
 ---
  ## Logistics Performance
 - Average delivery time varied significantly by region, with certain states experiencing delays exceeding 30+ days.
 - On-time delivery rate declined in November, aligning with peak sales periods.
-<img width="1429" alt="Screen Shot 2025-02-26 at 6 41 33 PM" src="https://github.com/user-attachments/assets/dfb7e279-1984-4930-8a68-083bce15a74b" />
+
+<img width="900" alt="Screen Shot 2025-03-03 at 5 48 48 PM" src="https://github.com/user-attachments/assets/346d3004-23b5-4166-b7d8-e23c30acb6d2" />
 
 
 
